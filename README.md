@@ -1,4 +1,4 @@
-Ciao, I'm Elisa, a Volcanology Postdoctoral Research Assistant at the University of Manchester.
+Ciao! I'm Elisa, a Volcanology Postdoctoral Research Assistant at the University of Manchester.
 I'm interested in CFD, multiphase flows and reduced order models. 
 I mainly work on modelling volcanic eruption events like lava flows and magma conduit ascent.
 I'm used to coding in Fortran 90 and C, and I'm currently learning python.
